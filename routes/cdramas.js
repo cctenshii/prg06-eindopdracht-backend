@@ -10,7 +10,7 @@ const cdramaData = [
         leads: "Zhang Ruonan, Bai Jingting",
         genre: "Romance",
         episodes: 32,
-        imageUrl: "/uploads/cdramas/1.jpg"
+        imageUrl: "/uploads/cdramas/The First Frost.jpg"
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ const cdramaData = [
         leads: "Zhao Lusi, Chen Zheyuan",
         genre: "Youth",
         episodes: 25,
-        imageUrl: "/uploads/cdramas/2.jpg"
+        imageUrl: "/uploads/cdramas/Hidden Love.jpg"
     },
     {
         id: 3,
@@ -26,7 +26,7 @@ const cdramaData = [
         leads: "Xu Ruohan, Zhang Linghe",
         genre: "Romance",
         episodes: 28,
-        imageUrl: "/uploads/cdramas/3.jpg"
+        imageUrl: "/uploads/cdramas/The Best Thing.jpg"
     },
     {
         id: 4,
@@ -34,7 +34,7 @@ const cdramaData = [
         leads: "Bai Lu, Luo Yunxi",
         genre: "Romance",
         episodes: 36,
-        imageUrl: "/uploads/cdramas/4.jpg"
+        imageUrl: "/uploads/cdramas/Love is Sweet.jpg"
     },
     {
         id: 5,
@@ -42,7 +42,7 @@ const cdramaData = [
         leads: "Hou Minghao, He Yu, Hu Lianxin",
         genre: "Fantasy",
         episodes: 40,
-        imageUrl: "/uploads/cdramas/5.jpg"
+        imageUrl: "/uploads/cdramas/Dashing Youth.jpg"
     },
     {
         id: 6,
@@ -50,7 +50,7 @@ const cdramaData = [
         leads: "Bai Lu, Ao Ruipeng",
         genre: "Romance",
         episodes: 40,
-        imageUrl: "/uploads/cdramas/6.jpg"
+        imageUrl: "/uploads/cdramas/Moonlight Mystique.jpg"
     },
     {
         id: 7,
